@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuong Hoang The
-- 👀 I’m interested in playing the guitar, singing, tinkering UI effects and programming. 
+- 👀 I’m interested in web development, tinkering UI effects and programming. 
 - 🌱 I’m currently learning ReactJS and more relevant frameworks.
 - 📫 Contact me: 
       Phone number: (+358) 041 480 5376
