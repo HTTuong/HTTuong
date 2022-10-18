@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Tuong Hoang The
+## 👋 Hi, I’m Tuong Hoang The:
+- 🎓 I'm a software engineering student at Tampere University of Applied Sciences.
 - 👀 I’m interested in web development, tinkering UI effects and programming. 
 - 🌱 I’m currently learning ReactJS and more relevant frameworks.
 - 📫 Contact me: 
@@ -6,7 +7,7 @@
       Email: hoangtuong270501@gmail.com
       
       
-## Technologies and Skills:
+### :dizzy: Technologies and Skills:
 * Front-end: HTML, SCSS, ReactJS
 * Back-end: NodeJS, ExpressJS
 * Database: MongoDB
