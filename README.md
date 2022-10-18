@@ -4,6 +4,14 @@
 - 📫 Contact me: 
       Phone number: (+358) 041 480 5376
       Email: hoangtuong270501@gmail.com
+      
+      
+## Technologies and Skills:
+* Front-end: HTML, SCSS, ReactJS
+* Back-end: NodeJS, ExpressJS
+* Database: MongoDB
+* Orthers: Firebase
+ 
 
 <!---
 HTTuong/HTTuong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
