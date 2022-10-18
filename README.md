@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Tuong Hoang The:
 - 🎓 I'm a software engineering student at Tampere University of Applied Sciences.
 - 👀 I’m interested in web development, tinkering UI effects and programming. 
-- 🌱 I’m currently learning ReactJS and more relevant frameworks.
+- 🌱 I'm willing to learn new things and listen to constructive comments.
 - 📫 Contact me: 
       Phone number: (+358) 041 480 5376
       Email: hoangtuong270501@gmail.com
