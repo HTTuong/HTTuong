@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Tuong Hoang The:
-- 🎓 I'm a software engineering student at Tampere University of Applied Sciences.
+- 🎓 I'm a <code>software engineering</code> student at Tampere University of Applied Sciences.
 - 👀 I’m interested in web development, tinkering UI effects and programming. 
 - 🌱 I'm willing to learn new things and listen to constructive comments.
 - 📫 Contact me: 
@@ -8,7 +8,7 @@
       
       
 ### :dizzy: Technologies and Skills:
-* Front-end: HTML, SCSS, ReactJS
+* Front-end: <code>HTML<code>, <code>SCSS<code>, <code>ReactJS<code>
 * Back-end: NodeJS, ExpressJS
 * Database: MongoDB
 * Orthers: Firebase
