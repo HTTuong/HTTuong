@@ -8,7 +8,7 @@
       
       
 ### :dizzy: Technologies and Skills:
-* Front-end: <code>HTML</code>, <code>SCSS</code>, <code>ReactJS</code>
+* Front-end: <code>HTML</code>, <code>SCSS</code>, <code>ReactJS</code>, <code>TailwindCSS</code>
 * Back-end: <code>NodeJS</code>, <code>ExpressJS</code>
 * Database: <code>MongoDB</code>
 * Orthers: <code>Firebase</code>
