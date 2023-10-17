@@ -11,7 +11,7 @@
 * Front-end: <code>HTML/CSS</code>, <code>TypeScript</code>, <code>React</code>, <code>TailwindCSS</code>
 * Back-end: <code>NodeJS</code>, <code>ExpressJS</code>,  <code>Python</code>,  <code>Flask</code>
 * Database: <code>MongoDB</code>, <code>MySQL</code>
-* Orthers: <code>Firebase</code>, <code>Supabase</code>
+* Orthers: <code>Firebase</code>, <code>Supabase</code>, <code>AWS</code>
  
 
 <!---
