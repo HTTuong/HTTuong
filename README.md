@@ -8,10 +8,10 @@
       
       
 ### :dizzy: Technologies and Skills:
-* Front-end: <code>HTML</code>, <code>SCSS</code>, <code>ReactJS</code>, <code>TailwindCSS</code>
-* Back-end: <code>NodeJS</code>, <code>ExpressJS</code>
-* Database: <code>MongoDB</code>
-* Orthers: <code>Firebase</code>
+* Front-end: <code>HTML/CSS</code>, <code>TypeScript</code>, <code>React</code>, <code>TailwindCSS</code>
+* Back-end: <code>NodeJS</code>, <code>ExpressJS</code>,  <code>Python</code>,  <code>Flask</code>
+* Database: <code>MongoDB</code>, <code>MySQL</code>
+* Orthers: <code>Firebase</code>, <code>Supabase</code>
  
 
 <!---
