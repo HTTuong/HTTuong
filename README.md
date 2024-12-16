@@ -11,6 +11,7 @@
 * Front-end: <code>HTML/CSS</code>, <code>TypeScript</code>, <code>React</code>, <code>React Native</code>, <code>TailwindCSS</code>, <code>Meterial UI</code>
 * Back-end: <code>NodeJS</code>, <code>ExpressJS</code>,  <code>Python</code>,  <code>Flask</code>
 * Database: <code>MongoDB</code>, <code>MySQL</code>, <code>PostgreSQL</code>
+* Testing: <code>Jest</code>, <code>Cypress</code>, <code>Robot</code>
 * Orthers: <code>Firebase</code>, <code>Supabase</code>, <code>AWS</code>, <code>Docker</code>
  
 
