@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tuong Hoang
 - 💼 I'm a <code>Full-Stack Developer</code> with a strong background in full-stack development, testing and AI evaluation, based in Helsinki, Finland.
-- 🔭 Currently: <code>QA Tester</code> at **Jobla AI**, testing AI-powered screening and interview features (Claude agents, OpenAI TTS, Braintrust) and building platform features with React and Playwright.
+- 🔭 Currently: <code>QA Tester</code> at **Jobla AI**, responsible for building and testing AI-powered features for both the **Jobla AI recruitment platform** and the **Go-to-market Mobla AI Platform**. 
 - ⚡ Previously: <code>Full-Stack Developer</code> at **Enion** (2024–2026), building the device management UI and Elixir/Phoenix backend for a smart-energy platform used by **1,700+ users**.
 - 🎓 M.Sc. in Software, Web & Cloud, Tampere University.
 - 📫 Contact me:
