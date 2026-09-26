@@ -1,19 +1,23 @@
-## 👋 Hi, I’m Tuong Hoang:
-- 🎓 I'm a graduate <code>software engineering</code> student at Tampere University of Applied Sciences.
-- 👀 I’m interested in <code>web and application development</code>. 
-- 🌱 I'm <code>willing to learn</code> new things and listen to constructive comments.
-- 📫 Contact me: 
-      Phone number: (+358) 041 328 4688
-      Email: hoangtuong270501@gmail.com
-      
-      
-### :dizzy: Technologies and Skills:
-* Front-end: <code>HTML/CSS</code>, <code>TypeScript</code>, <code>React</code>, <code>React Native</code>, <code>TailwindCSS</code>, <code>Material UI</code>,  <code>Chart.js</code>
-* Back-end: <code>NodeJS</code>, <code>ExpressJS</code>,  <code>Python</code>,  <code>Flask</code>
-* Database: <code>MongoDB</code>, <code>MySQL</code>, <code>PostgreSQL</code>
-* Testing: <code>Jest</code>, <code>Cypress</code>
-* Orthers: <code>Firebase</code>, <code>Supabase</code>, <code>AWS</code>, <code>Docker</code>
- 
+## 👋 Hi, I'm Tuong Hoang
+- 💼 I'm a <code>Full-Stack Developer</code> with a strong background in full-stack development, testing and AI evaluation, based in Helsinki, Finland.
+- 🔭 Currently: <code>QA Tester</code> at **Jobla AI**, testing AI-powered screening and interview features (Claude agents, OpenAI TTS, Braintrust) and building platform features with React and Playwright.
+- ⚡ Previously: <code>Full-Stack Developer</code> at **Enion** (2024–2026), building the device management UI and Elixir/Phoenix backend for a smart-energy platform used by **1,700+ users**.
+- 🎓 M.Sc. in Software, Web & Cloud, Tampere University.
+- 📫 Contact me:
+  - Email: hoangtuong270501@gmail.com
+  - Phone: +358 41 328 4688
+  - LinkedIn: https://www.linkedin.com/in/tuong-hoang-a98183230/
+
+
+### 💫 Technologies and Skills:
+* Languages: <code>TypeScript</code>, <code>JavaScript</code>, <code>Python</code>, <code>Elixir</code>, <code>Java</code>
+* Front-end: <code>React</code>, <code>Next.js</code>, <code>Material UI</code>, <code>Ant Design</code>, <code>Tailwind CSS</code>, <code>Chart.js</code>
+* Back-end: <code>Node.js</code>, <code>Express.js</code>, <code>Elixir/Phoenix</code>, <code>Spring Boot</code>, <code>REST APIs</code>, <code>WebSockets</code>
+* Database: <code>PostgreSQL</code>, <code>TimescaleDB</code>, <code>MongoDB</code>
+* Testing: <code>Playwright</code>, <code>Cypress</code>, <code>Jest</code>, <code>Robot Framework</code>
+* DevOps & Cloud: <code>Docker</code>, <code>Kubernetes</code>, <code>AWS</code>, <code>Terraform</code>, <code>GitLab CI/CD</code>, <code>Linux</code>
+* AI: <code>Claude / Claude Code</code>, <code>OpenAI TTS</code>, <code>Braintrust</code>
+
 
 <!---
 HTTuong/HTTuong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
